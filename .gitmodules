@@ -1,0 +1,6 @@
+[submodule "assets/aurora-presets"]
+	path = assets/aurora-presets
+	url = https://github.com/barrymcandrews/aurora-presets.git
+[submodule "assets/presets"]
+	path = assets/presets
+	url = https://github.com/barrymcandrews/aurora-presets.git
